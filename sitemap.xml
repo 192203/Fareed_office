@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- الرئيسية -->
+
+    <url>
+        <loc>https://fareedoffice.netlify.app/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+
+    <!-- عن المحامي -->
+
+    <url>
+        <loc>https://fareedoffice.netlify.app/about.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+
+    <!-- الخدمات -->
+
+    <url>
+        <loc>https://fareedoffice.netlify.app/services.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+
+    <!-- القانون الجنائي -->
+
+    <url>
+        <loc>https://fareedoffice.netlify.app/criminal.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+
+    <!-- القانون المدني -->
+
+    <url>
+        <loc>https://fareedoffice.netlify.app/civil.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+
+    <!-- المؤهلات -->
+
+    <url>
+        <loc>https://fareedoffice.netlify.app/qualifications.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+
+    <!-- التواصل -->
+
+    <url>
+        <loc>https://fareedoffice.netlify.app/contact.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
